@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connectwith-himanshu-kumar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wizhimanshu)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logoColor=white)
-
 </div>
 
 ---
@@ -67,11 +65,11 @@ const himanshu = {
 
 <div align="center">
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizhimanshu&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&icon_color=22c55e&text_color=ffffff)
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizhimanshu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wizhimanshu&theme=dark&hide_border=true&background=0a0a0a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wizhimanshu&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizhimanshu&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizhimanshu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff)
 
 </div>
 
@@ -81,7 +79,7 @@ const himanshu = {
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0a0a0a&interchange=false&bar_color=22c55e&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zwxjyeizbe5sj24oiopmlh2cg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 > 🔧 **Setup:** Go to [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → Login with Spotify → Copy your UID → Replace `YOUR_SPOTIFY_UID` above
 
@@ -93,7 +91,7 @@ const himanshu = {
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=wizhimanshu&repo=wizportfolio-frontend&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=ffffff&icon_color=22c55e)](https://github.com/wizhimanshu/wizportfolio-frontend)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=wizhimanshu&repo=Portfolio-frontend&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=ffffff&icon_color=22c55e)](https://github.com/wizhimanshu/Portfolio-frontend)
 
 </div>
 
