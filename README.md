@@ -1,6 +1,7 @@
 <div align="center">
+<!-- <div align="center"> -->
 
-# Hi, I'm Himanshu Kumar 👋
+# Hi, I'm Himanshu Kumar.
 
 **Full Stack Developer & AI Enthusiast**
 
@@ -20,8 +21,7 @@ const himanshu = {
   education:  "BCA — Bachelor of Computer Applications",
   location:   "India 🇮🇳",
   focus:      ["Full Stack Development", "AI/ML"],
-  portfolio:  "https://your-portfolio-link.onrender.com",
-  status:     "Open to work & internship opportunities 🟢",
+  portfolio:  "https://portfolio-frontend-wpbg.onrender.com",
 }
 ```
 
@@ -43,13 +43,14 @@ const himanshu = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Tools & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
@@ -61,46 +62,21 @@ const himanshu = {
 
 ---
 
-### 📊 GitHub Stats
+### 💭 This Week I'm Thinking About
 
-<div align="center">
+> *"The best way to predict the future is to build it."*
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizhimanshu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wizhimanshu&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizhimanshu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff)
-
-</div>
-
----
-
-### 🎵 Spotify — Now Playing
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zwxjyeizbe5sj24oiopmlh2cg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
-> 🔧 **Setup:** Go to [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → Login with Spotify → Copy your UID → Replace `YOUR_SPOTIFY_UID` above
-
-</div>
-
----
-
-### 📌 Featured Project
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=wizhimanshu&repo=Portfolio-frontend&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=22c55e&text_color=ffffff&icon_color=22c55e)](https://github.com/wizhimanshu/Portfolio-frontend)
-
-</div>
+| Area | What's on my mind |
+|---|---|
+| 🔧 Building | Making software that actually solves real problems |
+| 📖 Learning | How AI is reshaping software development |
+| 🎯 Goal | Ship more, learn more, improve daily |
 
 ---
 
 <div align="center">
 
-*"Transform ideas into intelligent software"*
+*"Transforming ideas into intelligent software"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=wizhimanshu&color=22c55e&style=flat-square)
-
+<!-- </div> -->
 </div>
